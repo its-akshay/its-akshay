@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![An image of @itsakshay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsakshay)](https://holopin.io/@itsakshay)
 
 
 
@@ -38,3 +37,8 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=its-akshay&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+[![An image of @itsakshay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsakshay)](https://holopin.io/@itsakshay)
+
