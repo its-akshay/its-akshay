@@ -1,4 +1,4 @@
-### Hi there I am Akshay Keswani👋
+
 
 <!--
 **its-akshay/its-akshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,31 @@ Here are some ideas to get you started:
 
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) <br/>
+# Hi, I'm Akshay Keswani! 👋
+
+### About Me
+I'm currently an intern at **Calsoft** with a passion for technology and problem-solving. I’ve participated in various open-source and coding competitions, gaining valuable experience and exposure to diverse tech stacks.
+
+### Skills
+- **Programming Languages**: C, C++, JavaScript, Python, Go
+- **Web Development**: HTML, CSS, ReactJS
+- **Cloud Technologies**: AWS (Cloud Practitioner Certified)
+- **Databases**: PostgreSQL, SQL
+
+### Achievements
+- **GSSoC & SSOC 2023** participant: Contributed to open-source projects and honed my skills in collaboration and code quality.
+- **CodeVita 2023**: Secured a global rank of **746** out of **444k+ registrations** in this prestigious coding competition.
+  
+### Coding Competitions
+I regularly participate in coding competitions and have achieved impressive ranks in various platforms. These experiences have sharpened my problem-solving abilities and technical knowledge.
+
+### Certifications
+- **AWS Certified Cloud Practitioner**
+
+Looking forward to connecting and collaborating on exciting projects!
+
+<br/>
+
 # GSSOC'23
 Did a level-2 contribution.
 ![image](https://github.com/its-akshay/its-akshay/assets/71098450/5d67d30a-f8cf-4a25-a732-77c9626b5fef)
