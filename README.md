@@ -22,23 +22,23 @@ Here are some ideas to get you started:
 ### About Me
 I'm currently an intern at **Calsoft** with a passion for technology and problem-solving. I’ve participated in various open-source and coding competitions, gaining valuable experience and exposure to diverse tech stacks.
 
-### Skills
+### 🛠️ Skills
 - **Programming Languages**: C, C++, JavaScript, Python, Go
 - **Web Development**: HTML, CSS, ReactJS
-- **Cloud Technologies**: AWS (Cloud Practitioner Certified)
-- **Databases**: PostgreSQL, SQL
+- **Cloud Technologies**: AWS (Cloud Practitioner Certified) ☁️
+- **Databases**: PostgreSQL, SQL 🗄️
 
-### Achievements
+### 🏆 Achievements
 - **GSSoC & SSOC 2023** participant: Contributed to open-source projects and honed my skills in collaboration and code quality.
 - **CodeVita 2023**: Secured a global rank of **746** out of **444k+ registrations** in this prestigious coding competition.
-  
-### Coding Competitions
+
+### 👨‍💻 Coding Competitions
 I regularly participate in coding competitions and have achieved impressive ranks in various platforms. These experiences have sharpened my problem-solving abilities and technical knowledge.
 
-### Certifications
-- **AWS Certified Cloud Practitioner**
+### 📜 Certifications
+- **AWS Certified Cloud Practitioner** ☁️
 
-Looking forward to connecting and collaborating on exciting projects!
+Looking forward to connecting and collaborating on exciting projects! 🤝
 
 <br/>
 
